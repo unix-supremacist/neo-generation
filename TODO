@@ -1,0 +1,37 @@
+#buildscript
+    finish github mod support
+    add maven support
+    add arbitary url support
+    fix bug that doesnt allow rftools, mcjtylib, coroutil, thaumic exploration, forestry, and wawla to be added
+    fix bug that requires mr/cfmods to need an extra line
+    mods being marked optional and disabled on polymc
+
+#mods
+    fork botania(based on gtnh)
+    fork blood magic(based on gtnh)
+    fork draconic(based on gtnh)
+    fork mekanism
+    fork special mobs(based on gtnh)
+    fork aether legacy
+    fork twlight forest (based on js fork)
+    fork dimensional doors (based on js fork)
+    add gt4 fork
+    add gtnh nei
+    add gtnh ccc
+    add mixin booter legacy
+    add endless io
+    add archaicfix
+    add advanced solar panels
+    add gravisuite
+    downgrade fastcraft
+    add gtnh-crafttweaker
+    add gtmega-modtweaker
+    add neo-engineers/tinkersconstruct
+    add ae2-unofficial
+    add galacticraft
+    fork galaxyspace
+    fork more planets
+    add mixingasm
+    add neodymium
+    add rp
+    fork zeldaswordskills and merge zssa
